@@ -1,4 +1,5 @@
 # hb-topics
+This file contains all the topics that will be given in the Bootcamp.
 
 ## HTML
 - Tags
