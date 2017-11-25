@@ -41,6 +41,11 @@ This file contains all the topics that will be given in the Bootcamp.
 - Transpilers
 - Linting
 - Frameworks exercise with React
+- Browser APIs
+  - DOM
+  - Local Storage
+  - History
+  - IntersectionObserver
 ## Tasks Runners
 - Theory
 - Example with NPM scripts
