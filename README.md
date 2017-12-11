@@ -46,6 +46,7 @@ This file contains all the topics that will be given in the Bootcamp.
   - Local Storage
   - History
   - IntersectionObserver
+- SPA
 ## Tasks Runners
 - Theory
 - Example with NPM scripts
